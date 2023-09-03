@@ -14,3 +14,4 @@ O README.md é usado para mostrar as informações do projeto e o modo de como u
 - Comando 8: git commit -am "mensagem" (faz commit de todas as alterações)
 - Comando 9: git push -u origin "nome do ramo" (sobe os commit para o ramo do GitHub)
 - Comando 10: git checkout -b "nome do novo ramo" (cria um novo ramo)
+- Comando 11: git checkout "nome do ramo" (muda o ramo de onde se esta)
